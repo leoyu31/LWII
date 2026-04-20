@@ -6,7 +6,14 @@ Apr. 20, 2026
 
 ## Descrption
 
-This directory contains two scripts used for the analysis and visualization of the manuscript "Emerging water limitation for global ecosystem productivity driven by increased solar radiation". Script `1.EC_Analysis.R` contains the code for analysis using eddy covariance data, while script. `2.RS_Analysis.R` contains the one using remote sensing data.
+This directory contains two scripts used for the analysis and visualization of the manuscript "Emerging water limitation for global ecosystem productivity driven by increased solar radiation". 
+
+## File description
+
+1. Script `1.EC_Analysis.R` contains the code for analysis using eddy covariance data.
+2. Script. `2.RS_Analysis.R` contains the one using remote sensing data.
+3. `User_Defined_Functions.R` has customized functions that were sourced in the main workflow.
+4. `Site.info.csv` is the EC site list.
 
 Due to the data size limits, the original datasets and remote sensing products are not provided here, but are available at the following links:
 
